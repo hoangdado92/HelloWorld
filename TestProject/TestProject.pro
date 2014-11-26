@@ -15,4 +15,10 @@ CONFIG   -= app_bundle
 TEMPLATE = app
 
 
-SOURCES += main.cpp
+SOURCES += main.cpp \
+    classofbr1.cpp \
+    classofmaster.cpp
+
+HEADERS += \
+    classofbr1.h \
+    classofmaster.h
