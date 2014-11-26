@@ -17,8 +17,10 @@ TEMPLATE = app
 
 SOURCES += main.cpp \
     classofbr1.cpp \
-    classofmaster.cpp
+    classofmaster.cpp \
+    classmaster2.cpp
 
 HEADERS += \
     classofbr1.h \
-    classofmaster.h
+    classofmaster.h \
+    classmaster2.h
